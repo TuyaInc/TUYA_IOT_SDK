@@ -1,15 +1,14 @@
 ***********************************************************
 
-version:4.0.5
+version:4.0.6
 
-date:2018-09-20
-author: changcheng@tuya.com
+date:2018-09-21
 branch: feature/merge_realtek_0716
 
-git tag:4.0.5_all
+git tag:4.0.6_all
 
 note:
-1. 4.0.5发布
+1. 修复了代码删减引入的问题
 
 
 
